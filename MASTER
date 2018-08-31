@@ -1,0 +1,8 @@
+# first-programme
+program 1
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+cout<<"hello world";
+}
